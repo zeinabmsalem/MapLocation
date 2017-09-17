@@ -1,1 +1,2 @@
-*.rb linguist-language=Android
+* linguist-vendored
+*.Android linguist-vendored=false
